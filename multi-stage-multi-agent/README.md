@@ -66,7 +66,4 @@ pipeline {
 
 ---
 
-For any issues, feel free to raise a discussion or open an issue!
-
-t
 
