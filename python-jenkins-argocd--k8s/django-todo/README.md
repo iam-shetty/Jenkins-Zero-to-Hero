@@ -3,7 +3,7 @@ A simple todo app built with django
 
 ![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
 ### Setup
-To get this repository, run the following command inside your git enabled terminal
+Make sure python is installed prior to Django installation.
 
 You will need django to be installed in you computer to run this app. Head over to https://www.djangoproject.com/download/ for the download guide
 
